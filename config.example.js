@@ -9,7 +9,8 @@ let config = {
     // TRADE KEY
     api_key: '',
     api_secret: '',
-    investment: .0001
+    investment: .0001,
+    currency: 'BTC'
   },
   /**
   * This section pertains to Binance only
@@ -18,7 +19,8 @@ let config = {
     // TRADE KEY
     api_key: '',
     api_secret: '',
-    investment: .0001
+    investment: .0001,
+    currency: 'ETH'
   },
 };
 
